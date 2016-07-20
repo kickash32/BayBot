@@ -1,0 +1,57 @@
+C:\Users\omer\kickash32@gmail.com\KickashBot - Remake\KickashBot\KickashBotCommands\bin\Debug\KickashBotCommands.exe.config
+C:\Users\omer\kickash32@gmail.com\KickashBot - Remake\KickashBot\KickashBotCommands\obj\Debug\KickashBotCommands.csprojResolveAssemblyReference.cache
+C:\Users\omer\kickash32@gmail.com\KickashBot - Remake\KickashBot\KickashBotCommands\bin\Debug\KickashBotCommands.exe
+C:\Users\omer\kickash32@gmail.com\KickashBot - Remake\KickashBot\KickashBotCommands\bin\Debug\KickashBotCommands.pdb
+C:\Users\omer\kickash32@gmail.com\KickashBot - Remake\KickashBot\KickashBotCommands\bin\Debug\Discord.Net.Commands.dll
+C:\Users\omer\kickash32@gmail.com\KickashBot - Remake\KickashBot\KickashBotCommands\bin\Debug\Discord.Net.dll
+C:\Users\omer\kickash32@gmail.com\KickashBot - Remake\KickashBot\KickashBotCommands\bin\Debug\Newtonsoft.Json.dll
+C:\Users\omer\kickash32@gmail.com\KickashBot - Remake\KickashBot\KickashBotCommands\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\omer\kickash32@gmail.com\KickashBot - Remake\KickashBot\KickashBotCommands\bin\Debug\Nito.AsyncEx.dll
+C:\Users\omer\kickash32@gmail.com\KickashBot - Remake\KickashBot\KickashBotCommands\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\omer\kickash32@gmail.com\KickashBot - Remake\KickashBot\KickashBotCommands\bin\Debug\RestSharp.dll
+C:\Users\omer\kickash32@gmail.com\KickashBot - Remake\KickashBot\KickashBotCommands\bin\Debug\WebSocket4Net.dll
+C:\Users\omer\kickash32@gmail.com\KickashBot - Remake\KickashBot\KickashBotCommands\bin\Debug\Newtonsoft.Json.xml
+C:\Users\omer\kickash32@gmail.com\KickashBot - Remake\KickashBot\KickashBotCommands\bin\Debug\Nito.AsyncEx.xml
+C:\Users\omer\kickash32@gmail.com\KickashBot - Remake\KickashBot\KickashBotCommands\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\omer\kickash32@gmail.com\KickashBot - Remake\KickashBot\KickashBotCommands\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\omer\kickash32@gmail.com\KickashBot - Remake\KickashBot\KickashBotCommands\bin\Debug\RestSharp.xml
+C:\Users\omer\kickash32@gmail.com\KickashBot - Remake\KickashBot\KickashBotCommands\obj\Debug\KickashBotCommands.exe
+C:\Users\omer\kickash32@gmail.com\KickashBot - Remake\KickashBot\KickashBotCommands\obj\Debug\KickashBotCommands.pdb
+C:\Users\omer\kickash32@gmail.com\KickashBot\KickashBotCommands\bin\Debug\KickashBotCommands.exe.config
+C:\Users\omer\kickash32@gmail.com\KickashBot\KickashBotCommands\obj\Debug\KickashBotCommands.exe
+C:\Users\omer\kickash32@gmail.com\KickashBot\KickashBotCommands\obj\Debug\KickashBotCommands.pdb
+C:\Users\omer\kickash32@gmail.com\KickashBot\KickashBotCommands\bin\Debug\KickashBotCommands.exe
+C:\Users\omer\kickash32@gmail.com\KickashBot\KickashBotCommands\bin\Debug\KickashBotCommands.pdb
+C:\Users\omer\kickash32@gmail.com\KickashBot\KickashBotCommands\bin\Debug\Discord.Net.Commands.dll
+C:\Users\omer\kickash32@gmail.com\KickashBot\KickashBotCommands\bin\Debug\Discord.Net.dll
+C:\Users\omer\kickash32@gmail.com\KickashBot\KickashBotCommands\bin\Debug\Newtonsoft.Json.dll
+C:\Users\omer\kickash32@gmail.com\KickashBot\KickashBotCommands\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\omer\kickash32@gmail.com\KickashBot\KickashBotCommands\bin\Debug\Nito.AsyncEx.dll
+C:\Users\omer\kickash32@gmail.com\KickashBot\KickashBotCommands\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\omer\kickash32@gmail.com\KickashBot\KickashBotCommands\bin\Debug\RestSharp.dll
+C:\Users\omer\kickash32@gmail.com\KickashBot\KickashBotCommands\bin\Debug\WebSocket4Net.dll
+C:\Users\omer\kickash32@gmail.com\KickashBot\KickashBotCommands\bin\Debug\Newtonsoft.Json.xml
+C:\Users\omer\kickash32@gmail.com\KickashBot\KickashBotCommands\bin\Debug\Nito.AsyncEx.xml
+C:\Users\omer\kickash32@gmail.com\KickashBot\KickashBotCommands\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\omer\kickash32@gmail.com\KickashBot\KickashBotCommands\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\omer\kickash32@gmail.com\KickashBot\KickashBotCommands\bin\Debug\RestSharp.xml
+C:\Users\omer\kickash32@gmail.com\KickashBot\KickashBotCommands\obj\Debug\KickashBotCommands.csprojResolveAssemblyReference.cache
+Z:\kickash32@gmail.com\KickashBot (2)\KickashBotCommands\bin\Debug\KickashBotCommands.exe.config
+Z:\kickash32@gmail.com\KickashBot (2)\KickashBotCommands\obj\Debug\KickashBotCommands.exe
+Z:\kickash32@gmail.com\KickashBot (2)\KickashBotCommands\obj\Debug\KickashBotCommands.pdb
+Z:\kickash32@gmail.com\KickashBot (2)\KickashBotCommands\bin\Debug\KickashBotCommands.exe
+Z:\kickash32@gmail.com\KickashBot (2)\KickashBotCommands\bin\Debug\KickashBotCommands.pdb
+Z:\kickash32@gmail.com\KickashBot (2)\KickashBotCommands\bin\Debug\Discord.Net.Commands.dll
+Z:\kickash32@gmail.com\KickashBot (2)\KickashBotCommands\bin\Debug\Discord.Net.dll
+Z:\kickash32@gmail.com\KickashBot (2)\KickashBotCommands\bin\Debug\Newtonsoft.Json.dll
+Z:\kickash32@gmail.com\KickashBot (2)\KickashBotCommands\bin\Debug\Nito.AsyncEx.Concurrent.dll
+Z:\kickash32@gmail.com\KickashBot (2)\KickashBotCommands\bin\Debug\Nito.AsyncEx.dll
+Z:\kickash32@gmail.com\KickashBot (2)\KickashBotCommands\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+Z:\kickash32@gmail.com\KickashBot (2)\KickashBotCommands\bin\Debug\RestSharp.dll
+Z:\kickash32@gmail.com\KickashBot (2)\KickashBotCommands\bin\Debug\WebSocket4Net.dll
+Z:\kickash32@gmail.com\KickashBot (2)\KickashBotCommands\bin\Debug\Newtonsoft.Json.xml
+Z:\kickash32@gmail.com\KickashBot (2)\KickashBotCommands\bin\Debug\Nito.AsyncEx.xml
+Z:\kickash32@gmail.com\KickashBot (2)\KickashBotCommands\bin\Debug\Nito.AsyncEx.Concurrent.xml
+Z:\kickash32@gmail.com\KickashBot (2)\KickashBotCommands\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+Z:\kickash32@gmail.com\KickashBot (2)\KickashBotCommands\bin\Debug\RestSharp.xml
+Z:\kickash32@gmail.com\KickashBot (2)\KickashBotCommands\obj\Debug\KickashBotCommands.csprojResolveAssemblyReference.cache

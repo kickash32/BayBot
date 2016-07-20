@@ -1,0 +1,16 @@
+/Users/owner/kickash32@gmail.com/KickashBot/KickashBotCommands/obj/Debug/.NETFramework,Version=v4.6.AssemblyAttribute.cs
+/Users/owner/kickash32@gmail.com/KickashBot/KickashBotCommands/bin/Debug/KickashBotCommands.exe.config
+/Users/owner/kickash32@gmail.com/KickashBot/KickashBotCommands/bin/Debug/KickashBotCommands.exe.mdb
+/Users/owner/kickash32@gmail.com/KickashBot/KickashBotCommands/bin/Debug/KickashBotCommands.pdb
+/Users/owner/kickash32@gmail.com/KickashBot/KickashBotCommands/bin/Debug/KickashBotCommands.exe
+/Users/owner/kickash32@gmail.com/KickashBot/KickashBotCommands/obj/Debug/KickashBotCommands.exe
+/Users/owner/kickash32@gmail.com/KickashBot/KickashBotCommands/obj/Debug/KickashBotCommands.exe.mdb
+/Users/owner/kickash32@gmail.com/KickashBot/KickashBotCommands/obj/Debug/KickashBotCommands.pdb
+/Users/owner/kickash32@gmail.com/KickashBot/KickashBotCommands/bin/Debug/Discord.Net.dll
+/Users/owner/kickash32@gmail.com/KickashBot/KickashBotCommands/bin/Debug/Discord.Net.Commands.dll
+/Users/owner/kickash32@gmail.com/KickashBot/KickashBotCommands/bin/Debug/Newtonsoft.Json.dll
+/Users/owner/kickash32@gmail.com/KickashBot/KickashBotCommands/bin/Debug/Nito.AsyncEx.dll
+/Users/owner/kickash32@gmail.com/KickashBot/KickashBotCommands/bin/Debug/Nito.AsyncEx.Concurrent.dll
+/Users/owner/kickash32@gmail.com/KickashBot/KickashBotCommands/bin/Debug/Nito.AsyncEx.Enlightenment.dll
+/Users/owner/kickash32@gmail.com/KickashBot/KickashBotCommands/bin/Debug/RestSharp.dll
+/Users/owner/kickash32@gmail.com/KickashBot/KickashBotCommands/bin/Debug/WebSocket4Net.dll
